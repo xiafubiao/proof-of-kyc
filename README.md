@@ -1,6 +1,7 @@
 # A Quick zkTLS Demo for Primus Network (AlphaNet) 
 
-<img width="719" height="432" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/2070b69f-184a-46cd-b5fe-0e4f7a9392d4" />
+<img width="1920" height="1080" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/08d20ff8-e648-4cf5-9add-35c8b3d69175" />
+
 
 
 This demo demonstrates how to seamlessly integrate the Primus Network SDK and create a fully functional zkTLS-based dApp, showcasing the complete development workflow.
