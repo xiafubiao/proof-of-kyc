@@ -1,5 +1,8 @@
 # A Quick zkTLS Demo for Primus Network (AlphaNet) 
 
+<img width="719" height="432" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/2070b69f-184a-46cd-b5fe-0e4f7a9392d4" />
+
+
 This demo demonstrates how to seamlessly integrate the Primus Network SDK and create a fully functional zkTLS-based dApp, showcasing the complete development workflow.
 
 The demo allows any user to create zkTLS data attestations (proofs) about their KYC status in Binance exchange. The attestation is created through the network attestor and is further verified on the Base Sepolia with Primus contracts.
